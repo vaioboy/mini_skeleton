@@ -1,0 +1,10 @@
+# ignore all
+*
+
+# but not these directories and files
+!.gitignore
+!mini_skeleton.uvprojx
+!Sources
+!Sources/*
+!Libraries
+!Libraries/**
